@@ -1,11 +1,11 @@
 # SHAP - Interpretación de Predicciones de Churn en el Sector de Telecomunicaciones
 
 ## Integrantes del Proyecto
-Juan Angel Carrera 20593
-Esteban Aldana 20591
-Luis Pedro Gonzales 20008
-Juan Carlos Baján 20109
-José Mariano Reyes 20074 
+- Juan Angel Carrera 20593
+- Esteban Aldana 20591
+- Luis Pedro Gonzales 20008
+- Juan Carlos Baján 20109
+- José Mariano Reyes 20074 
 
 Este proyecto se centra en la aplicación de métodos de interpretación modelo-agnósticos, con un enfoque en SHAP (SHapley Additive exPlanations), para analizar y explicar las predicciones de churn de clientes en el sector de telecomunicaciones. Utilizando un dataset de churn de clientes de una compañía de telecomunicaciones disponible en Kaggle, se implementan modelos de predicción de churn y se aplica SHAP para entender la influencia de diversas características en las predicciones del modelo.
 
